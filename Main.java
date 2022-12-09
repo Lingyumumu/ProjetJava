@@ -80,7 +80,6 @@ public class Main {
 		hotel2.setEtoile(4);
 		hotel2.setNombreChambre(8);
 		System.out.println("Nombre de chambre : " + hotel2.getNombreChambre());
-		System.out.println("it's not me");
 		// ???
 
 		
