@@ -79,7 +79,7 @@ public class Main {
 		Hotel hotel2 = new Hotel();
 		hotel2.setEtoile(4);
 		hotel2.setNombreChambre(8);
-		System.out.println("Nombre de chambre : " + hotel2.getNombreChambre());
+		hotel2.affiche();
 		// ???
 
 		
